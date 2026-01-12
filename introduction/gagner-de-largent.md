@@ -108,3 +108,9 @@ La flèches vous permet de naviguer entre les divers pages.
 <figure><img src="../.gitbook/assets/image (32).png" alt="" width="381"><figcaption></figcaption></figure>
 
 </details>
+
+## ▶️ Les coffres de ventes
+
+Les coffre de vente vous permettent aussi de générez de l'argent.
+
+Pour savoir son fonctionnement merci de vous référez au: [coffre-de-vente.md](../gameplay/coffre-de-vente.md "mention")

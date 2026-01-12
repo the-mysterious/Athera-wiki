@@ -28,3 +28,80 @@ En effectuer un clique gauche sur le panneau divers option soffre à vous:
 
 ### Allias de commande:
 
+{% hint style="warning" %}
+Vous devez regardez un coffre
+{% endhint %}
+
+{% hint style="info" %}
+Allias de la commande /quickshop -> /qs
+{% endhint %}
+
+#### **/quickshop create \[prix] \[item] \[quantité]**
+
+Vous permet de créer une boutique
+
+#### /qs benefit add \<User> \[percentage%]
+
+Vous pemet de donnez X% à l'utilisateur choisis sur cjaque vente
+
+#### **/**&#x71;s buy <mark style="color:red;">OU</mark> sell
+
+Vous permet de switch entre le mode achat et vente.
+
+#### /qs find \[item]
+
+Vous permet de trouver une boutique proposant l'item que vous chercher
+
+#### /qs history
+
+Vous permet de voir l'historique de votre boutique
+
+#### /qs item
+
+Vous permet de changer l'item en vente&#x20;
+
+{% hint style="info" %}
+La quantuté et le prix reste identique
+{% endhint %}
+
+#### /qs permission \<user I group> set \[user] {permission}
+
+Permet d'ajouter / retirer des permission à un memebre ou groupe
+
+#### /qs price \[price]
+
+Vous permet de modifier le prix de la boutique que vous regarder
+
+#### /qs remove
+
+Supprime la boutique instantanément
+
+#### /qs sing \[OAK\_WALL\_SIGN I autre paneau en anglais]
+
+Vous permet de modifier la couleur du paneau&#x20;
+
+{% tabs %}
+{% tab title="ACACIA_WALL_SIGN" %}
+<figure><img src="../.gitbook/assets/image (54).png" alt="" width="365"><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="A compléter" %}
+A compléter
+{% endtab %}
+{% endtabs %}
+
+#### /qs staff \[user]&#x20;
+
+Vous permet d'ajouter des gérant à la boutique
+
+#### /qs suggestprice
+
+Vas regardez le prix sugérer de ventes (Moyennes du prix de ventes par rapport à l'achat des autres boutique) pour le même item
+
+#### /qs transferall \<User>
+
+Transfert tout vos shop à un autre joueur
+
+#### /qs transferownership \<User>
+
+Trasfert le coffre de vente que vous regardez à un autre joueur

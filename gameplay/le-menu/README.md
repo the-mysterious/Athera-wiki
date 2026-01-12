@@ -2,7 +2,7 @@
 description: Accessible avec le /menu
 ---
 
-# Le menu
+# 📃 Le menu
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,6 +26,6 @@ Daily rewards
 
 <mark style="color:$info;">Quêtes -></mark> [quetes.md](quetes.md "mention")
 
-<mark style="color:$primary;">Kits -></mark> [kits.md](kits.md "mention")
+<mark style="color:$primary;">Kits -></mark> [Broken link](/broken/pages/DElA6mcQUSMQua8rAbQK "mention")
 
 <mark style="color:$warning;">Information -></mark> [information.md](information.md "mention")

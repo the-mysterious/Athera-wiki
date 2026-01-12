@@ -2,7 +2,7 @@
 description: Retrouvez ici toute les info pour le /claim
 ---
 
-# Le system de claim
+# 🔒 Le system de claim
 
 🔶Les claims
 
