@@ -25,3 +25,7 @@
   * [📚 Quêtes](gameplay/le-menu/quetes.md)
   * [Information](gameplay/le-menu/information.md)
 * [Coffre de vente](gameplay/coffre-de-vente.md)
+
+## 🆘 SOS
+
+* [Discord](sos/discord.md)
