@@ -1,2 +1,51 @@
+---
+description: Accessible avec le /rtp
+---
+
 # Random tp
 
+Le serveur vous propose 3 monde différent:
+
+<figure><img src="../../.gitbook/assets/image (57).png" alt="" width="380"><figcaption></figcaption></figure>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Overworld</strong></mark></summary>
+
+Ici vous pourrez choisir entre le:
+
+<figure><img src="../../.gitbook/assets/image (58).png" alt="" width="379"><figcaption></figcaption></figure>
+
+\- monde <mark style="color:orange;">**construction**</mark> :&#x20;
+
+* PVP off
+* Jamais de reset pendant la saison
+* Build: **Uniquement dans vos claim** se référé au [le-system-de-claim.md](../le-system-de-claim.md "mention")
+
+\- Le monde <mark style="color:blue;">**ressource**</mark>:
+
+* Reset régulier&#x20;
+* Claims **interdits**
+* Vous pouvez tout casser&#x20;
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Nether</strong></mark></summary>
+
+Il s'agit du nether standard vous pouvez y construire comme bon vous semble <mark style="color:red;">**mais attention le PVP est activée ici**</mark>
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>End</strong></mark></summary>
+
+{% hint style="warning" %}
+Pas encors accessible
+{% endhint %}
+
+Il s'agit de l'end standard vous pouvez y construire comme bon vous semble
+
+</details>
