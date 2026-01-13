@@ -46,7 +46,41 @@ A faire
 
 <summary>Console</summary>
 
+{% hint style="info" %}
+Télécharger l'application Bedrock together ou Bedrockconnect (au choix)
+{% endhint %}
 
+{% hint style="danger" %}
+Il faut que votre console soit connectée au même réseau wifi que vôtre téléphone.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/unknown (1).jpeg" alt="" width="185"><figcaption></figcaption></figure>
+
+Entrez le port: 40499
+
+Une fois ceci fait cliquez sur "watch ad and run" pour regarder une pub et lancer la connexion au serveur.
+
+{% hint style="info" %}
+mettre en favori l'ip pour ne pas la perdre ^^
+{% endhint %}
+
+## Pour bedrockconnect:
+
+Lancez l'application et cliquez sur "custom”
+
+<figure><img src="../.gitbook/assets/unknown (1) (1).jpeg" alt="" width="185"><figcaption></figcaption></figure>
+
+Entrez le nom du serveur
+
+Entrez l'ip play.atheramc.fr
+
+Entrez le port: 40499
+
+Puis "ajouter un serveur”
+
+Cliquez sur atheramc
+
+<br>
 
 </details>
 
