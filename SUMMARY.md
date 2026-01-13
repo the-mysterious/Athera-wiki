@@ -16,6 +16,7 @@
 ## 🕹️ Gameplay
 
 * [🔒 Le system de claim](gameplay/le-system-de-claim.md)
+* [🔒 Les claims](gameplay/les-claims.md)
 * [📃 Le menu](gameplay/le-menu/README.md)
   * [Warps joueurs (pw)](gameplay/le-menu/warps-joueurs-pw.md)
   * [Warps serveur](gameplay/le-menu/warps-serveur.md)
