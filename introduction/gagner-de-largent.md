@@ -114,3 +114,7 @@ La flèches vous permet de naviguer entre les divers pages.
 Les coffre de vente vous permettent aussi de générez de l'argent.
 
 Pour savoir son fonctionnement merci de vous référez au: [coffre-de-vente.md](../gameplay/coffre-de-vente.md "mention")
+
+
+
+<figure><img src="../.gitbook/assets/miku-hatsune.gif" alt="" width="165"><figcaption></figcaption></figure>
