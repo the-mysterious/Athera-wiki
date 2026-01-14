@@ -66,27 +66,23 @@ La quantité et le prix reste identique
 
 #### /qs permission \<user I group> set \[user] {permission}
 
-Permet d'ajouter / retirer des permission à un memebre ou groupe
+Permet d'ajouter / retirer des permissions à un membre ou groupe
 
 #### /qs price \[price]
 
-Vous permet de modifier le prix de la boutique que vous regarder
+Vous permet de modifier le prix de la boutique que vous regardez
 
 #### /qs remove
 
 Supprime la boutique instantanément
 
-#### /qs sing \[OAK\_WALL\_SIGN I autre paneau en anglais]
+#### /qs sing \[OAK\_WALL\_SIGN I autre panneau en anglais]
 
-Vous permet de modifier la couleur du paneau&#x20;
+Vous permet de modifier la couleur du panneau&#x20;
 
 {% tabs %}
 {% tab title="ACACIA_WALL_SIGN" %}
 <figure><img src="../.gitbook/assets/image (54).png" alt="" width="365"><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="A compléter" %}
-A compléter
 {% endtab %}
 {% endtabs %}
 
