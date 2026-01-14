@@ -26,7 +26,7 @@ Pour acheter un grades il vous faut obligatoirement le précédent
 
 {% tabs %}
 {% tab title="Prix" %}
-500 000Pièces&#x20;
+500 000 Pièces&#x20;
 
 <mark style="color:red;">**OU**</mark>
 
@@ -63,7 +63,7 @@ Bonus: 1 clé Légendaire à l'achat
 
 {% tabs %}
 {% tab title="Prix" %}
-1 000 000 de pièces
+1 000 000 Pièces
 
 <mark style="color:red;">**OU**</mark>
 
@@ -92,12 +92,12 @@ Déblocages des kits:
 ### <mark style="color:$warning;">**Prince**</mark>
 
 {% hint style="info" %}
-Bonus: 3 clés légendaire à l'achat
+Bonus: 3 clées légendaire à l'achat
 {% endhint %}
 
 {% tabs %}
 {% tab title="Prix" %}
-2 000 000 de pièces
+2 000 000 Pièces
 
 <mark style="color:red;">**OU**</mark>
 
