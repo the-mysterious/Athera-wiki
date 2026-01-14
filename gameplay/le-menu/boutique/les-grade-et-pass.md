@@ -67,7 +67,7 @@ Bonus: 1 clé Légendaire à l'achat
 
 <mark style="color:red;">**OU**</mark>
 
-1 000 Gèmes
+1 000 Gemmes
 {% endtab %}
 
 {% tab title="Avantages" %}
