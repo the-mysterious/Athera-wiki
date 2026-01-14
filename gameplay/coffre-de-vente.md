@@ -4,25 +4,25 @@ icon: money-bill-trend-up
 
 # Coffre de vente
 
-Pour créer un coffre de vente il vous suffit de faire  click gauche sur un coffre avec l'objet de votre choix puis d'y indiquer le prix.
+Pour créer un coffre de vente, il vous suffit de faire  clic gauche sur un coffre avec l'objet de votre choix puis d'y indiquer le prix.
 
 <figure><img src="../.gitbook/assets/image (51).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (52).png" alt="" width="563"><figcaption></figcaption></figure>
 
-En effectuer un clique gauche sur le panneau divers option soffre à vous:
+En effectuant un clic gauche sur le panneau, diverses options s'offrent à vous:
 
 <figure><img src="../.gitbook/assets/image (53).png" alt="" width="503"><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Changer :**</mark> Vous permet de switch de mod entre Achat et vente
+<mark style="color:red;">**Changer :**</mark> Vous permet de switcher de mod entre Achat et vente
 
 <mark style="color:orange;">**Change :**</mark> Vous permet de modifier votre prix de vente / achat&#x20;
 
 <mark style="color:yellow;">**Toogle :**</mark> vous permet d'activer l'affichage de l'item dans la boutique
 
-<mark style="color:blue;">**View:**</mark> vous permet de voir l'historique des transaction
+<mark style="color:blue;">**View:**</mark> vous permet de voir l'historique des transactions
 
-<mark style="color:purple;">**Supprimer la boutique:**</mark> après de clique dessus dans un délais de 5s la boutique est supprimer.
+<mark style="color:purple;">**Supprimer la boutique:**</mark> après de cliqué dessus dans un délai de 5s, la boutique est supprimée.
 
 ***
 
@@ -42,7 +42,7 @@ Vous permet de créer une boutique
 
 #### /qs benefit add \<User> \[percentage%]
 
-Vous pemet de donnez X% à l'utilisateur choisis sur cjaque vente
+Vous pouvez donner X % à l'utilisateur choisi sur chaque vente
 
 #### **/**&#x71;s buy <mark style="color:red;">OU</mark> sell
 
@@ -50,7 +50,7 @@ Vous permet de switch entre le mode achat et vente.
 
 #### /qs find \[item]
 
-Vous permet de trouver une boutique proposant l'item que vous chercher
+Vous permet de trouver une boutique proposant l'item que vous cherchez
 
 #### /qs history
 
@@ -61,7 +61,7 @@ Vous permet de voir l'historique de votre boutique
 Vous permet de changer l'item en vente&#x20;
 
 {% hint style="info" %}
-La quantuté et le prix reste identique
+La quantité et le prix reste identique
 {% endhint %}
 
 #### /qs permission \<user I group> set \[user] {permission}

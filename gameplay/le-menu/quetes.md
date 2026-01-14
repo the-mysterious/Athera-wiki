@@ -4,7 +4,7 @@ Le serveur vous propose diverses quêtes (plus de 1 400) accessibles depuis la c
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="383"><figcaption></figcaption></figure>
 
-Pour accepter une quête il vous suffit de faire clic gauche sur celle-ci
+Pour accepter une quête, il vous suffit de faire clic gauche sur celle-ci
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
