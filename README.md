@@ -55,10 +55,3 @@ Ce Wiki est **synchronisé automatiquement avec GitHub** :
 
 ---
 
-## ✍️ Contribution
-Les contributions sont bienvenues 🙌
-
-1. Fork le dépôt
-2. Modifie ou ajoute un fichier `.md`
-3. Vérifie le rendu sur GitBook
-4. Ouvre une Pull Request
