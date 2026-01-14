@@ -55,3 +55,14 @@ Ce Wiki est **synchronisé automatiquement avec GitHub** :
 
 ---
 
+## ✍️ Contribution
+Les contributions sont bienvenues 🙌
+
+1. Fork le dépôt
+2. Modifie ou ajoute un fichier `.md`
+3. Vérifie le rendu sur GitBook
+4. Ouvre une Pull Request
+
+---
+
+[Merci](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhscGFjN2UwajMzMmFpa2Z1MmJvanQ0emZkOHJhczE0eHB5emt5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx48Na3LBp1Dy/giphy.gif)
