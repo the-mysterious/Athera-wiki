@@ -12,7 +12,7 @@
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Vous recevrez des récompense toute els 15min en étant AFK dans cette zone
+Vous recevrez des récompense toute les 15min en étant AFK dans cette zone
 
 </details>
 
@@ -26,7 +26,7 @@ Vous recevrez des récompense toute els 15min en étant AFK dans cette zone
 
 <details>
 
-<summary><mark style="color:red;">Spawn nether</mark></summary>
+<summary><mark style="color:red;">Spawn Nether</mark></summary>
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -39,5 +39,3 @@ Vous recevrez des récompense toute els 15min en étant AFK dans cette zone
 <figure><img src="../../.gitbook/assets/image (48).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </details>
-
-<mark style="color:orange;">Dock</mark>

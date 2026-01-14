@@ -1,4 +1,4 @@
-# 👑 Les grade et Pass
+# 👑 Les grades et Pass
 
 {% hint style="danger" %}
 **Les grades ne sont valables que pour la saison en cours**
@@ -6,7 +6,7 @@
 
 **Les grades sont achetables via des gemmes (**[gagner-des-gemmes.md](../../../introduction/gagner-des-gemmes.md "mention")**) ou par de l'argent IG (** [gagner-de-largent.md](../../../introduction/gagner-de-largent.md "mention")**)**&#x20;
 
-**En entrant la commande `/menu` il vous faudrait cliquer sur la pièce menant à la boutique.**
+**En entrant la commande `/menu` il vous faudra cliquer sur la pièce menant à la boutique.**
 
 <figure><img src="../../../.gitbook/assets/image (49).png" alt="" width="385"><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@
 ## <mark style="color:blue;">Les grades</mark>
 
 {% hint style="info" %}
-Pour acheter un grades il vous faut obligatoirement le précédent
+Pour acheter un grade il vous faut obligatoirement le précédent
 {% endhint %}
 
 ### <mark style="color:green;">**Chevalier**</mark>
@@ -34,14 +34,14 @@ Pour acheter un grades il vous faut obligatoirement le précédent
 {% endtab %}
 
 {% tab title="Avantages" %}
-Compétence:  <mark style="color:orange;">**appel du Destrier**</mark>&#x20;
+Compétence:  <mark style="color:orange;">**Appel du Destrier**</mark>&#x20;
 
 Accès au:
 
 * `/feed` -> permet de remplir votre bar de nourriture&#x20;
 * `/back` -> vous téléporte en arrière ou vous étiez
 
-Hommes: <mark style="color:blue;">**5**</mark>
+Homes: <mark style="color:blue;">**5**</mark>
 
 Accès au zones réservées
 {% endtab %}
@@ -77,7 +77,7 @@ Accès au:
 
 * `/ec` -> vous permet d'ouvrir votre ender-chest n'importe où
 
-Hommes: <mark style="color:blue;">**10**</mark>
+Homes: <mark style="color:blue;">**10**</mark>
 {% endtab %}
 
 {% tab title="Kits" %}

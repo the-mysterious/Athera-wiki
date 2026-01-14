@@ -6,19 +6,19 @@ description: Accessible avec le /menu
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-Daily rewards
+Daily rewards&#x20;
 
-<mark style="color:$danger;">vote -></mark> [comment-voter](../../introduction/comment-voter/ "mention")
+<mark style="color:$danger;">Vote -></mark> [comment-voter](../../introduction/comment-voter/ "mention")
 
-<mark style="color:purple;">warps joueurs -></mark> [warps-joueurs-pw.md](warps-joueurs-pw.md "mention")
+<mark style="color:purple;">Warps joueurs -></mark> [warps-joueurs-pw.md](warps-joueurs-pw.md "mention")
 
-<mark style="color:red;">warps serveur -></mark> [warps-serveur.md](warps-serveur.md "mention")
+<mark style="color:red;">Warps serveur -></mark> [warps-serveur.md](warps-serveur.md "mention")
 
-<mark style="color:orange;">boutique -></mark> [boutique](boutique/ "mention")
+<mark style="color:orange;">Boutique -></mark> [boutique](boutique/ "mention")
 
-<mark style="color:yellow;">random tp -></mark> [random-tp.md](random-tp.md "mention")
+<mark style="color:yellow;">Random tp -></mark> [random-tp.md](random-tp.md "mention")
 
-<mark style="color:green;">métier -></mark> [#les-jobs](../../introduction/gagner-de-largent.md#les-jobs "mention")
+<mark style="color:green;">Métiers -></mark> [#les-jobs](../../introduction/gagner-de-largent.md#les-jobs "mention")
 
 <mark style="color:blue;">Le AH -></mark> [#lhotel-de-vente-ah](../../introduction/gagner-de-largent.md#lhotel-de-vente-ah "mention")
 

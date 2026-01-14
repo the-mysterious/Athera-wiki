@@ -35,7 +35,7 @@ Pour ouvrir le ah faites la commande /ah
 
 **Légende:**
 
-<mark style="color:purple;">**Vous permets de voir vos ventes en cours**</mark>
+<mark style="color:purple;">**Vous permet de voir vos ventes en cours**</mark>
 
 <mark style="color:$danger;">**Vous permet de voir vos ventes expirer**</mark>
 
@@ -45,7 +45,7 @@ Pour ouvrir le ah faites la commande /ah
 
 <mark style="color:green;">**Rafraîchir la page**</mark>
 
-**Pour mettre un item en vente il vous suffit de tenir litem dans votre main et de faire:**&#x20;
+**Pour mettre un item en vente il vous suffit de tenir l'item dans votre main et de faire :**&#x20;
 
 **/ah sell \[prix] {Nombre d'item (ou ne rien mettre si vous voulez tout vendre)}**
 
@@ -64,7 +64,7 @@ Accessible avec le /shop
 Légende:
 
 {% hint style="warning" %}
-**Les items en ventes et leur prix son succeptible de changer**
+Les items en vente et leur prix sont susceptibles de changer
 {% endhint %}
 
 <details>
@@ -89,7 +89,7 @@ Légende:
 
 <figure><img src="../.gitbook/assets/image (30).png" alt="" width="366"><figcaption></figcaption></figure>
 
-La flèches vous permet de naviguer entre les divers pages.
+Les flèches vous permet de naviguer entre les diverses pages.
 
 </details>
 
@@ -113,5 +113,5 @@ La flèches vous permet de naviguer entre les divers pages.
 
 Les coffres de vente vous permettent aussi de générer de l'argent.
 
-Pour savoir son fonctionnement merci de vous référer au : [coffre-de-vente.md](../gameplay/coffre-de-vente.md "mention")
+Pour savoir son fonctionnement, merci de vous référer au : [coffre-de-vente.md](../gameplay/coffre-de-vente.md "mention")
 

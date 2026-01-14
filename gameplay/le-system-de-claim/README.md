@@ -2,7 +2,7 @@
 description: Retrouvez ici toute les info pour le /claim
 ---
 
-# 🔒 Le system de claim
+# 🔒 Le système de claim
 
 🔶Les claims
 
@@ -12,7 +12,7 @@ Un claim vous permet de protéger une zone du build, destruction, interaction (o
 
 ## 🔶 Comment il fonctionne?
 
-Pour claim une zone il vous suffit de faire :
+Pour claim une zone, il vous suffit de faire :
 
 &#x20;/claim et de confirmer&#x20;
 
@@ -34,15 +34,15 @@ Chaque claim est payant
 
 #### /claim addchunk \[Nom du claim]
 
-Vous permets d'expand votre claim sans avoir à merge&#x20;
+Vous permet d'expand votre claim sans avoir à merge&#x20;
 
 <figure><img src="../../.gitbook/assets/addchunk claim.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 #### /claim merge claim-1 claim-2
 
-Vous pouvez également merge vos zone (pour eviter d'avoir claim-0, \[...], claim -99), pour se faire il vous suffit de faire: /claim merge claim-1 claim-2.
+Vous pouvez également merge vos zones (pour éviter d'avoir claim-0, \[...], claim -99), pour ce faire il vous suffit de faire : /claim merge claim-1 claim-2.
 
-Se message devrait apparaître:
+Ce message devrait apparaître:
 
 <figure><img src="../../.gitbook/assets/merge claim.gif" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Se message devrait apparaître:
 
 #### /unclaim {nom du claim I \*}
 
-Pour un claim un ou plusieurs claim il vous suffit de faire la commande /unclaim et de valider dans l'interface qui vas s'ouvrir
+Pour un claim, un ou plusieurs claim, il vous suffit de faire la commande /unclaim et de valider dans l'interface qui va s'ouvrir
 
 <figure><img src="../../.gitbook/assets/unclaim.gif" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -65,20 +65,20 @@ Vous permet de modifier le nom de votre claim
 Vous permet d'ajouter un membre dans votre claim.
 
 {% hint style="info" %}
-Lui accorde donc les permission&#x20;
+Lui accorde donc les permissions
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/claim add.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 #### /claim remove \[Nom du claim I \*] \[pseudo]&#x20;
 
-Vous permet de retirer une membres de vos claim
+Vous permet de retirer un membre de vos claim
 
 <figure><img src="../../.gitbook/assets/claim remove.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 #### /claim settings
 
-Vous permet d'ouvrir les menu de votre claim.
+Vous permet d'ouvrir les menus de votre claim.
 
 Vous pouvez ainsi paramétrer chaque action possible dans le claim pour les visiteurs, trust.
 
@@ -98,24 +98,24 @@ Vous permet de définir un point de spawn de votre claim
 
 #### /claim owner \[nom du claim] {joueur}
 
-Transferer la propriété d'un claim
+Transférer la propriété d'un claim
 
 
 
 #### /claim list
 
-Voir tout vos claim
+Voir tous vos claim
 
 <figure><img src="../../.gitbook/assets/claim list.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 #### /claim members
 
-Voir vos membre dans le claim
+Voir vos membres dans le claim
 
 <figure><img src="../../.gitbook/assets/claim membre.gif" alt="" width="563"><figcaption></figcaption></figure>
 
 #### /claim ban \[Nom du claim I \*] \[pseudo]
 
-ban un joueur de vos ou tout vos claim
+Ban un joueur de vos ou tous vos claim
 
 <figure><img src="../../.gitbook/assets/claim ban.gif" alt="" width="563"><figcaption></figcaption></figure>

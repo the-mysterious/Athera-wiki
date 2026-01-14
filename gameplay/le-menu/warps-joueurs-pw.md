@@ -20,16 +20,15 @@ Vous permet de modifier votre pw
 
 Vous permet de supprimer votre pw
 
-`video à edit`
+
 
 #### /pw set \[nom]
 
 Vous permet de déplacer votre pw
 
-`video à edit`
+
 
 #### /pw rate \[warp] {note 1-5}
 
 Vous permet de noter le \[warp] de la note de {note 1-5}
 
-\*`video à edit`

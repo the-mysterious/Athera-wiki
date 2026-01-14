@@ -54,4 +54,4 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 
 
-<mark style="color:red;">**Le règlement est considéré comme LU et APPROUVER par tous**</mark>
+<mark style="color:red;">**Le règlement est considéré comme LU et APPROUVÉ par tous**</mark>

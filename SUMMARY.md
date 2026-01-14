@@ -17,13 +17,13 @@
 ## 🕹️ Gameplay
 
 * [💲 Les bâtons de ventes](gameplay/les-batons-de-ventes.md)
-* [🔒 Le system de claim](gameplay/le-system-de-claim/README.md)
+* [🔒 Le système de claim](gameplay/le-system-de-claim/README.md)
   * [🔒 Les claims](gameplay/le-system-de-claim/les-claims.md)
 * [📃 Le menu](gameplay/le-menu/README.md)
   * [Warps joueurs (pw)](gameplay/le-menu/warps-joueurs-pw.md)
   * [🗺️ Warps serveur](gameplay/le-menu/warps-serveur.md)
   * [🛒 Boutique](gameplay/le-menu/boutique/README.md)
-    * [👑 Les grade et Pass](gameplay/le-menu/boutique/les-grade-et-pass.md)
+    * [👑 Les grades et Pass](gameplay/le-menu/boutique/les-grade-et-pass.md)
   * [🧭 Random tp](gameplay/le-menu/random-tp.md)
   * [📚 Quêtes](gameplay/le-menu/quetes.md)
   * [Information](gameplay/le-menu/information.md)

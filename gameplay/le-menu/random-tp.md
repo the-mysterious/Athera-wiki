@@ -16,7 +16,7 @@ Ici vous pourrez choisir entre le:
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt="" width="379"><figcaption></figcaption></figure>
 
-\- monde <mark style="color:orange;">**construction**</mark> :&#x20;
+\- Monde <mark style="color:orange;">**Construction**</mark> :&#x20;
 
 * PVP off
 * Jamais de reset pendant la saison
@@ -34,7 +34,7 @@ Ici vous pourrez choisir entre le:
 
 <summary><mark style="color:yellow;"><strong>Nether</strong></mark></summary>
 
-Il s'agit du nether standard vous pouvez y construire comme bon vous semble <mark style="color:red;">**mais attention le PVP est activée ici**</mark>
+Il s'agit du Nether standard vous pouvez y construire comme bon vous semble, <mark style="color:red;">**mais attention, le PVP est activé ici**</mark>
 
 </details>
 
@@ -43,9 +43,9 @@ Il s'agit du nether standard vous pouvez y construire comme bon vous semble <mar
 <summary><mark style="color:green;"><strong>End</strong></mark></summary>
 
 {% hint style="warning" %}
-Pas encors accessible
+Pas encore accessible
 {% endhint %}
 
-Il s'agit de l'end standard vous pouvez y construire comme bon vous semble
+Il s'agit de l'end standard, vous pouvez y construire comme bon vous semble
 
 </details>

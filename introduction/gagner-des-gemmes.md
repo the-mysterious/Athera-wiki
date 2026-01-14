@@ -14,5 +14,5 @@ icon: gem
 
 
 
-**Au spawn vous trouverez un collectionneur qui vous propose d'échanger des item contre des gemmes. Il est également disponible dans le nether.**<br>
+**Au spawn vous trouverez un collectionneur qui vous propose d'échanger des items contre des gemmes. Il est également disponible dans le Nether.**<br>
 

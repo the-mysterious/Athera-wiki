@@ -8,9 +8,9 @@ description: >-
 
 ### Etape 1️⃣:
 
-Pour commencer veuillez vous rendre sur le site : [https://atheramc.fr](https://atheramc.fr).
+Pour commencer, veuillez vous rendre sur le site : [https://atheramc.fr](https://atheramc.fr).
 
-Une fois dessus vous devrez vous créer un compte OU vous connecter dans le cas échéant.
+Une fois dessus, vous devrez vous créer un compte OU vous connecter dans le cas échéant.
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -36,8 +36,6 @@ Choisissez l'un des 3 sites où vous voulez voter.
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Il vous suffis de rentrer votre pseudo minecraft, de valider la captcha et cliquez sur voter
-
 
 
 </details>
@@ -62,7 +60,7 @@ Ce message vous indique In-Game (IG) que vous ou un autre joueur avez voté pour
 
 
 
-### Etape 3️⃣
+### Étape 3️⃣
 
 #### Récompenses:
 

@@ -4,6 +4,8 @@ description: Le serveur est accessible en Java ET Bedrock ainsi que les crack
 
 # 🛤️ Rejoindre le serveur
 
+
+
 <details>
 
 <summary>JAVA</summary>
@@ -21,16 +23,16 @@ description: Le serveur est accessible en Java ET Bedrock ainsi que les crack
 <figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Penser à bien être en 1.21.10
+Pensez à bien être en 1.21.10
 
-Penser à accepter les pack de ressource du serveur&#x20;
+Pensez à accepter les packs de ressources du serveur&#x20;
 {% endhint %}
 
-Si tout est bon vous devriez voir cela:
+Si tout est bon, vous devriez voir cela:
 
 <figure><img src="../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Il ne vous reste plus qu'as vous connectez et profiter du serveur
+Il ne vous reste plus qu'à vous connecter et profiter du serveur !
 
 </details>
 
@@ -38,7 +40,11 @@ Il ne vous reste plus qu'as vous connectez et profiter du serveur
 
 <summary>Bedrock </summary>
 
-A faire
+{% hint style="info" %}
+En cours
+{% endhint %}
+
+
 
 </details>
 
@@ -51,17 +57,17 @@ Télécharger l'application Bedrock together ou Bedrockconnect (au choix)
 {% endhint %}
 
 {% hint style="danger" %}
-Il faut que votre console soit connectée au même réseau wifi que vôtre téléphone.
+Il faut que votre console soit connectée au même réseau wifi que votre téléphone.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/unknown (1).jpeg" alt="" width="185"><figcaption></figcaption></figure>
 
 Entrez le port: 40499
 
-Une fois ceci fait cliquez sur "watch ad and run" pour regarder une pub et lancer la connexion au serveur.
+Une fois ceci fait, cliquez sur "watch ad and run" pour regarder une pub et lancer la connexion au serveur.
 
-{% hint style="info" %}
-mettre en favori l'ip pour ne pas la perdre ^^
+{% hint style="success" %}
+Mets en favori l'ip pour ne pas la perdre ^^
 {% endhint %}
 
 ## Pour bedrockconnect:
@@ -87,6 +93,10 @@ Cliquez sur atheramc
 <details>
 
 <summary>Crack</summary>
+
+{% hint style="info" %}
+En cours
+{% endhint %}
 
 
 
