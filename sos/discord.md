@@ -10,7 +10,7 @@ Avant de commencer assurez vous de rejoindre notre serveur discord accessible av
 
 Une fois dessus accepter le règlement et assurer vous de montrer tout les salon:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="218"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="218"><figcaption></figcaption></figure>
 
 Puis chercher la catégorie **Gestion** et cliquer sur le salon **ouvrir-un-ticket**
 

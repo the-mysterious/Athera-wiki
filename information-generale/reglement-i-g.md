@@ -50,8 +50,8 @@ Le règlement est susceptible de changer à tout moment sans préavis, nous vous
 
 
 
-&#x20;**SANCTIONS** Le Staff se réserve le droit d'appliquer des sanctions (Mute, Kick, Ban, Reset) selon la gravité de la faute. Toute décision du Staff est définitive, sauf appel via ticket.
+**SANCTIONS** Le Staff se réserve le droit d'appliquer des sanctions (Mute, Kick, Ban, Reset) selon la gravité de la faute. Toute décision du Staff est définitive, sauf appel via ticket.
 
 
 
-<mark style="color:red;">**Le règlement est concidéré comme LU et APPROUVER par tous**</mark>
+<mark style="color:red;">**Le règlement est considéré comme LU et APPROUVER par tous**</mark>

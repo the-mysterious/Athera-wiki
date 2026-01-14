@@ -8,7 +8,7 @@ description: Accessible avec le /menu
 
 Daily rewards
 
-<mark style="color:$danger;">vote -></mark> [comment-voter.md](../../introduction/comment-voter.md "mention")
+<mark style="color:$danger;">vote -></mark> [comment-voter](../../introduction/comment-voter/ "mention")
 
 <mark style="color:purple;">warps joueurs -></mark> [warps-joueurs-pw.md](warps-joueurs-pw.md "mention")
 

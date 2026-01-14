@@ -9,12 +9,14 @@
 ## 🤝 Introduction
 
 * [🛤️ Rejoindre le serveur](introduction/rejoindre-le-serveur.md)
-* [✉️ Comment voter](introduction/comment-voter.md)
+* [✉️ Comment voter](introduction/comment-voter/README.md)
+  * [Les points vote](introduction/comment-voter/les-points-vote.md)
 * [Gagner de l'argent](introduction/gagner-de-largent.md)
 * [Gagner des gemmes](introduction/gagner-des-gemmes.md)
 
 ## 🕹️ Gameplay
 
+* [Les bâtons de ventes](gameplay/les-batons-de-ventes.md)
 * [🔒 Le system de claim](gameplay/le-system-de-claim.md)
 * [🔒 Les claims](gameplay/les-claims.md)
 * [📃 Le menu](gameplay/le-menu/README.md)
