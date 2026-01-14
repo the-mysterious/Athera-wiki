@@ -26,6 +26,6 @@ Daily rewards
 
 <mark style="color:$info;">Quêtes -></mark> [quetes.md](quetes.md "mention")
 
-<mark style="color:$primary;">Kits -></mark> [Broken link](/broken/pages/DElA6mcQUSMQua8rAbQK "mention")
+<mark style="color:$primary;">Kits -></mark> [les-grade-et-pass.md](boutique/les-grade-et-pass.md "mention")
 
 <mark style="color:$warning;">Information -></mark> [information.md](information.md "mention")

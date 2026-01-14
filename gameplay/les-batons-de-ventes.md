@@ -2,12 +2,12 @@
 
 Les bâtons de ventes vous permettent de vendre l'intégralité d'un coffre en faisant clique gauche dessus.&#x20;
 
-La formule du prix de revente est la suivante:
+La formule du prix de revente est la suivante :
 
 X=\[priw au shop] \* \[Multiplicateur]
 
 {% hint style="danger" %}
-Chaque clique consome 1 utilisations
+Chaque clic consomme 1 utilisation
 {% endhint %}
 
 Le serveur dispose de 4 bâtons différents:

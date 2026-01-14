@@ -2,6 +2,7 @@
 description: >-
   Cette page vous aideras à comprendre comment faire une requêtes / rapport de
   bug au staff
+icon: discord
 ---
 
 # Discord

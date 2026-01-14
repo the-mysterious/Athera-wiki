@@ -10,7 +10,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (49).png" alt="" width="385"><figcaption></figcaption></figure>
 
-**Dès l'achats de celui-ci vous obtenez les avantages que celui-ci proccurent.**
+**Dès l'achat de celui-ci, vous obtenez les avantages que celui-ci procure.**
 
 
 
@@ -123,8 +123,10 @@ Déblocages des kits:
 
 ### <mark style="color:orange;">Pass premium</mark>
 
-Vous donnes accès au récompense premium du `/pass`&#x20;
+Vous donnez accès aux récompenses premium du pass
 
-Accès a des tags, pets et particules exclusive
+\
+Accès à des tags, pets et particules exclusives
 
-Et plus de 60 récompenses exclusive.
+\
+Et plus de 60 récompenses exclusives.

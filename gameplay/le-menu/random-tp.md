@@ -2,7 +2,7 @@
 description: Accessible avec le /rtp
 ---
 
-# Random tp
+# 🧭 Random tp
 
 Le serveur vous propose 3 monde différent:
 
@@ -20,7 +20,7 @@ Ici vous pourrez choisir entre le:
 
 * PVP off
 * Jamais de reset pendant la saison
-* Build: **Uniquement dans vos claim** se référé au [le-system-de-claim.md](../le-system-de-claim.md "mention")
+* Build: **Uniquement dans vos claim** se référé au [le-system-de-claim](../le-system-de-claim/ "mention")
 
 \- Le monde <mark style="color:blue;">**ressource**</mark>:
 

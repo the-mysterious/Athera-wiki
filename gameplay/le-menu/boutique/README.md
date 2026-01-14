@@ -1,2 +1,2 @@
-# Boutique
+# 🛒 Boutique
 

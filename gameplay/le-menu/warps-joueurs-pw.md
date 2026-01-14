@@ -1,3 +1,7 @@
+---
+icon: earth-europe
+---
+
 # Warps joueurs (pw)
 
 #### /pw create \[nom]
