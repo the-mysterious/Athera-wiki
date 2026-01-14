@@ -1,4 +1,4 @@
-# Les bâtons de ventes
+# 💲 Les bâtons de ventes
 
 Les bâtons de ventes vous permettent de vendre l'intégralité d'un coffre en faisant clique gauche dessus.&#x20;
 
