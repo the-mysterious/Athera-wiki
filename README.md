@@ -65,4 +65,5 @@ Les contributions sont bienvenues 🙌
 
 ---
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhscGFjN2UwajMzMmFpa2Z1MmJvanQ0emZkOHJhczE0eHB5emt5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hx48Na3LBp1Dy/giphy.gif"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5c2JrZG9nNWtwdmE0cjVpZnExcjVmYXVyajF6Njd1Y3E4dHdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTAxWZ0gYzxT2/giphy.gif"/>
+
