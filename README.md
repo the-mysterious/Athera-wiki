@@ -67,13 +67,16 @@ Ce Wiki est **synchronisé automatiquement avec GitHub** :
 
 ## ✍️ Contribution
 
-Les contributions sont bienvenues 🙌
+Les contributions sont les bienvenues 🙌  
+Merci de suivre ces étapes :
 
 1. Fork le dépôt
-2. Modifie ou ajoute un fichier `.md`
-3. Vérifie le rendu sur GitBook
-4. Ouvre une Pull Request
+2. Crée une branche pour ta modification
+3. Modifie ou ajoute un fichier `.md`
+4. Vérifie le rendu sur GitBook
+5. Ouvre une Pull Request détaillée
 
+Toute contribution constructive est appréciée 💙
 ***
 
 🔗 **GitHub**: https://github.com/the-mysterious\
