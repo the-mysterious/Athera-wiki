@@ -79,9 +79,13 @@ Merci de suivre ces étapes :
 Toute contribution constructive est appréciée 💙
 ***
 
-🔗 **GitHub**: https://github.com/the-mysterious\
+🔗 **GitHub**: [github.com/the-mysterious](https://github.com/the-mysterious)
 🖋️ **Author**: The-Mysterious
 
 ***
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5c2JrZG9nNWtwdmE0cjVpZnExcjVmYXVyajF6Njd1Y3E4dHdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTAxWZ0gYzxT2/giphy.gif)
+<p align="center">
+  <img src="[URL_DE_TON_IMAGE](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg5c2JrZG9nNWtwdmE0cjVpZnExcjVmYXVyajF6Njd1Y3E4dHdqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oTAxWZ0gYzxT2/giphy.gif)" width="400" />
+</p>
+
+![]
