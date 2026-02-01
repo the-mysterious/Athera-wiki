@@ -12,7 +12,9 @@ Toute aide est la bienvenue !
 
 3. Fais tes modifications
 4. Commit avec un message clair
-   git commit -m "Amélioration de la documentation"
+      ```bash
+      git commit -m "Amélioration de la documentation"
 5. Push ta branche
-   git push origin ma-contribution
+     ```bash
+     git push origin ma-contribution
 6. Ouvre une Pull Request sur GitHub
