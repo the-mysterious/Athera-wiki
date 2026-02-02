@@ -64,12 +64,13 @@ Ce message vous indique In-Game (IG) que vous ou un autre joueur avez voté pour
 
 #### Récompenses:
 
-| Types          | Taux |
-| -------------- | ---- |
-| Clé Vote       | 100% |
-| Clé Rare       | 20%  |
-| Clé Epique     | 10%  |
-| Clé Légendaire | 5%   |
+| Types          | Taux  |
+| -------------- | ----- |
+| Clé Vote       | 100%  |
+| Clé Rare       | 20%   |
+| Clé Epique     | 10%   |
+| Clé Légendaire | 5%    |
+| Clé mythique   | 0.50% |
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
