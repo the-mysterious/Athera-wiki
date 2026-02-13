@@ -11,15 +11,15 @@ Avant de commencer, assurez-vous de rejoindre notre serveur Discord accessible a
 
 Une fois dessus, accepter le règlement et assurez-vous de montrer tous les salons.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="218"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="218"><figcaption></figcaption></figure>
 
 Puis chercher la catégorie **Gestion** et cliquer sur le salon **ouvrir-un-ticket.**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="219"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="219"><figcaption></figcaption></figure>
 
 Une fois cela fait, vous pouvez ouvrir un ticket.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 &#x20;Les règles du serveur s'appliquent également dans les tickets, pensez à choisir la bonne catégorie.
 

@@ -9,7 +9,7 @@ Lorsque vous votez pour le serveur, vous obtenez **1** Point vote. De plus, chaq
 \
 Pour dépenser ces points, vous pouvez utiliser la commande : `/vote-shop`&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="390"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="390"><figcaption></figcaption></figure>
 
 Vous aurez ainsi le choix entre: &#x20;
 

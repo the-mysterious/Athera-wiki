@@ -16,6 +16,7 @@
 
 ## 🕹️ Gameplay
 
+* [Les jobs](gameplay/les-jobs.md)
 * [💲 Les bâtons de ventes](gameplay/les-batons-de-ventes.md)
 * [🔒 Le système de claim](gameplay/le-system-de-claim/README.md)
   * [🔒 Les claims](gameplay/le-system-de-claim/les-claims.md)
