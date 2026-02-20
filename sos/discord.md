@@ -31,3 +31,9 @@ Ce message indique que votre demande de ticket a été prise en compte, un staff
 Une fois votre ticket accepté, il vous suffira de nous expliquer le problème, etc...
 
 <figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+
+
+.- ... --. - -.- -.--
