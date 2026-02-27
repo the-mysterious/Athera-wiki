@@ -46,6 +46,18 @@ Choisissez l'un des 3 sites où vous voulez voter.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="388"><figcaption></figcaption></figure>
 
+
+
+</details>
+
+<details>
+
+<summary>Site-4</summary>
+
+<figure><img src="../../.gitbook/assets/image (65).png" alt="" width="563"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (66).png" alt="" width="559"><figcaption></figcaption></figure>
+
 </details>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -77,10 +89,8 @@ Ce message vous indique In-Game (IG) que vous ou un autre joueur avez voté pour
 Utilise ta clé de vote sur le box pour obtenir une récompense aléatoire.
 
 \
-Chaque vote te rapporte 1 point boutique. Vote voir : (ajouter la catégorie boutique à la fin
+Chaque vote te rapporte 1 point boutique.&#x20;
 
 ## Le vote party
 
-Le vote party a lieu tous les 20 votes. Celui comprend les votes de tous les joueurs. Il peut vous apporter :
-
-* &#x20;5 points de vote : 100%
+Le vote party a lieu tous les 50 votes. Celui comprend les votes de tous les joueurs.
