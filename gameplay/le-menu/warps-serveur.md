@@ -12,7 +12,11 @@
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Vous recevrez des récompense toute les 15min en étant AFK dans cette zone
+| Time  | Money 100% | Gemmes <100% | Clefs <100% |
+| ----- | ---------- | ------------ | ----------- |
+| 15min | 2000       | 2            | Rare        |
+| 30min | 4000       | 5            | Rare / Epic |
+| 1h    | 8000       | 10           | Epic / Leg  |
 
 </details>
 
