@@ -8,7 +8,7 @@
 
 **En entrant la commande `/menu` il vous faudra cliquer sur la pièce menant à la boutique.**
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt="" width="385"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="374"><figcaption></figcaption></figure>
 
 **Dès l'achat de celui-ci, vous obtenez les avantages que celui-ci procure.**
 
@@ -116,6 +116,51 @@ Déblocages des kits:
 * Prince
 * Mineur
 * Agriculteur
+{% endtab %}
+{% endtabs %}
+
+## **Roi**
+
+{% hint style="info" %}
+Bonus: 5 clées légendaires
+{% endhint %}
+
+{% tabs %}
+{% tab title="Prix" %}
+4 000 000 Pièces
+
+<mark style="color:red;">**OU**</mark>
+
+4 000 Gemmes
+{% endtab %}
+
+{% tab title="Avantages" %}
+&#x20;/stonecutter
+{% endtab %}
+{% endtabs %}
+
+**Empereur**
+
+{% hint style="danger" %}
+* job reset tout les 7j
+* Prérequis: lvl 100 jobs
+{% endhint %}
+
+{% hint style="info" %}
+Bonus: 2 clée légendaires
+{% endhint %}
+
+{% tabs %}
+{% tab title="Prix" %}
+2 000 000 Pièces
+
+<mark style="color:red;">**OU**</mark>
+
+2 000 Gemmes
+{% endtab %}
+
+{% tab title="Avantage" %}
+&#x20;/anvil
 {% endtab %}
 {% endtabs %}
 

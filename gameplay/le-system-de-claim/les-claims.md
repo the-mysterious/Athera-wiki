@@ -30,4 +30,17 @@ Vous disposez de Maximum <mark style="color:red;">**300**</mark> chunks.
 
 Vous pouvez également créer des zones de <mark style="color:red;">**50**</mark> chunks maximum.
 {% endtab %}
+
+{% tab title="Roi" %}
+Vous disposez de Maximum <mark style="color:red;">**400**</mark> chunks.
+
+Vous pouvez également créer des zones de <mark style="color:red;">**50**</mark> chunks maximum.
+{% endtab %}
+
+{% tab title="Empereur " %}
+Vous disposez de Maximum <mark style="color:red;">**500**</mark> chunks.
+
+Vous pouvez également créer des zones de <mark style="color:red;">**50**</mark> chunks maximum.
+{% endtab %}
 {% endtabs %}
+
