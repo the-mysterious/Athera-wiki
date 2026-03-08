@@ -102,6 +102,9 @@ Toute personne consultant ou utilisant ce wiki reconnaît avoir pris connaissanc
 ---
 
 Auteur : the-mysterious
+
 Licence : The-Mysterious Documentation License (TMDL) v1.0
+
 Année : 2026
+
 Tous droits réservés.
