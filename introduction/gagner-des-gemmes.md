@@ -14,5 +14,20 @@ icon: gem
 
 
 
-**Au spawn vous trouverez un collectionneur qui vous propose d'échanger des items contre des gemmes. Il est également disponible dans le Nether.**<br>
+**Au spawn vous trouverez un collectionneur qui vous propose d'échanger des items contre des gemmes. Il est également disponible dans le Nether.**
 
+
+
+
+
+**Vous pouvez égallement les obtenir au /**&#x77;arp AFK
+
+
+
+Les gemmes vous permettent de:
+
+Acheter des gardes [les-grade-et-pass.md](../gameplay/le-menu/boutique/les-grade-et-pass.md "mention").
+
+Vous pouvez aussi acheter des boost de jobs allant de l'individuel au boost serveur.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="383"><figcaption></figcaption></figure>

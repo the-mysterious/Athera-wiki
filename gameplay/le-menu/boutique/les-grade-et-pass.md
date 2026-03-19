@@ -8,7 +8,7 @@
 
 **En entrant la commande `/menu` il vous faudra cliquer sur la pièce menant à la boutique.**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="374"><figcaption></figcaption></figure>
 
 **Dès l'achat de celui-ci, vous obtenez les avantages que celui-ci procure.**
 
@@ -175,3 +175,55 @@ Accès à des tags, pets et particules exclusives
 
 \
 Et plus de 60 récompenses exclusives.
+
+
+
+***
+
+<mark style="color:$danger;">**Les gardes cosmétiques:**</mark>
+
+<details>
+
+<summary><strong>Grade Signature ( Disponible en 30j ou permanent)</strong></summary>
+
+
+
+**Le pack essentiel pour se démarquer et personnaliser son aventure.**
+
+#### ✨ Avantages Inclus
+
+* **Identité visuelle :** Un préfixe exclusif dans le chat sous le format : `Grade` ◇ `Pseudo`.
+* **Style unique :** Accès à la commande `/hat` pour porter n\\'importe quel bloc sur votre tête.
+* **Décoration :** Accès à la **Collection Standard** du catalogue `/hdb` (Heads Database).
+* **Pseudonyme :** Possibilité de changer votre nom d\\'affichage avec `/nick` (format texte standard).
+* **Évolutif :** De nouveaux avantages seront ajoutés au fil de la saison !
+
+#### 📋 Informations Complémentaires
+
+* <mark style="color:$danger;">**Type : Grade Boutique (Indépendant des grades de noblesse).**</mark>
+* <mark style="color:$danger;">**Durée : Valable 30 jours OU permanent**</mark>
+
+</details>
+
+<details>
+
+<summary><strong>Grade Elite ( Disponible en 30j ou permanent)</strong></summary>
+
+
+
+**L\\'expérience ultime sur le serveur. Cumulez tous les privilèges et imposez votre style.**
+
+#### 🔥 Avantages Exclusifs
+
+* **Tout inclus :** Contient l\\'intégralité des avantages du grade **Signature**.
+* **Format Premium :** Un préfixe de chat supérieur : `Grade` ◆ `Pseudo`.
+* **Effets visuels :** Accès à la commande `/glow` pour briller dans l\\'obscurité.
+* **Décoration Totale :** Accès complet et illimité au catalogue `/hdb`.
+* **Identité Avancée :** Personnalisation complète de votre `/nick` (Couleurs, Gras et Italique inclus).
+
+#### 📋 Informations Complémentaires
+
+* <mark style="color:$danger;">**Type : Grade Boutique (Indépendant des grades de noblesse).**</mark>
+* <mark style="color:$danger;">**Durée : Valable 30 jours OU permanent**</mark>
+
+</details>

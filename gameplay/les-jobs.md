@@ -7,7 +7,7 @@ icon: telescope
 
 Le serveur vous propose 4 jobs différent:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="388"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="388"><figcaption></figcaption></figure>
 
 <details>
 

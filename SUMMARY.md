@@ -17,6 +17,7 @@
 ## 🕹️ Gameplay
 
 * [Les items modé](gameplay/les-items-mode/README.md)
+  * [Le backpack](gameplay/les-items-mode/le-backpack.md)
   * [Le compacteur](gameplay/les-items-mode/le-compacteur.md)
   * [Les runes](gameplay/les-items-mode/les-runes.md)
 * [Les jobs](gameplay/les-jobs.md)
